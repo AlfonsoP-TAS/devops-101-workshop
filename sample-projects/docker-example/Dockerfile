@@ -1,1 +1,1 @@
-FROM devopswebminartas.jfrog.io/docker/ubuntu:16.04
+FROM devopswebminartas.jfrog.io/docker-virtual/ubuntu:16.04
